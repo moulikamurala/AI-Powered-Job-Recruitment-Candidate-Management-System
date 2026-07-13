@@ -1,2 +1,24 @@
-# AI-Powered-Job-Recruitment-Candidate-Management-System
-AI-Powered Job Recruitment &amp; Candidate Management System is a Salesforce-based application that streamlines the hiring process by managing job openings, candidate applications, interview workflows, approvals, and recruitment tracking through automation and custom Salesforce features.
+# AI-Powered Job Recruitment & Candidate Management System
+
+A Salesforce-based recruitment management system that automates job postings, candidate tracking, interview management, approvals, and hiring workflows.
+
+## Features
+- Job Opening Management
+- Candidate Application Tracking
+- Approval Process
+- Validation Rules
+- Reports & Dashboards
+- Salesforce Flow Automation
+- AI Candidate Scoring
+
+## Technologies Used
+- Salesforce CRM
+- Lightning Experience
+- Flow Builder
+- Approval Process
+- Reports & Dashboards
+
+## Project Structure
+- Document
+- Project Files
+- VideoDemo
